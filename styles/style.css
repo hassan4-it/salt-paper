@@ -7,6 +7,12 @@ html {
     src: url('../fonts/futurak.ttf');
 }
 
+@font-face {
+    font-family: 'butler';
+    src: url('../Fonts/Butler_Regular.otf');
+}
+
+
 /* red green white black */
 
 :root {
@@ -79,7 +85,14 @@ html {
     font-family: futurak;
     font-size: 5.2rem;
 }
-.order-brand-btn{
+
+.butler-font{
+    font-family: butler;
+    font-size: 6.2rem;
+    font-style: normal;
+    margin-bottom: 8px;
+}
+.order-brand-btn-3{
     background-color: transparent;
     border: 1px solid #ffffffb3;
     color: var(--white);
@@ -109,3 +122,43 @@ html {
     border-radius: 3px;
 }
 /* our-brands ended */
+
+/* our franchise start */
+
+.hero-sec{
+    background-color: #0f0f0f;
+}
+
+.franchise-dd{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #ffffffb3;
+}
+
+.pera-1{
+    color: var(--red);
+    font-size: 2.6rem;
+}
+.pera-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5.6rem;
+}
+
+.pera-3{
+    font-family: 'Courier New', Courier, ;
+    font-size: 1.6rem;
+    color: #ffffffb3;
+    
+}
+
+.direction-btn {
+    background-color: transparent;
+    border: 1px solid white;
+    color: var(--white);
+    padding: 20px 25px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+/* our franchise end */

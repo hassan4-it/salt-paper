@@ -57,7 +57,7 @@ html {
 }
 
 .item-center {
-    align-items: center;
+    align-items: center ;
 }
 
 .item-start {
@@ -233,6 +233,15 @@ html {
 .p-5 {
     padding: 50px;
 }
+
+.p-7{
+    padding: 70px;
+}
+
+.p-10{
+    padding: 100px;
+}
+
 
 /* Padding top */
 .pt-1 {
