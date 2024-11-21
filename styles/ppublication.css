@@ -1,0 +1,87 @@
+html {
+    font-size: 62.5%;
+}
+
+@font-face {
+    font-family: 'futurak';
+    src: url('../fonts/futurak.ttf');
+}
+
+@font-face {
+    font-family: 'butler';
+    src: url('../Fonts/Butler_Regular.otf');
+}
+
+
+/* red green white black */
+
+:root {
+    --red: #ed1c24;
+    --green: #28a745;
+    --black: #000000;
+    --white: #ffffff;
+    --grey: #0f0f0f;
+}
+
+
+/* navbar started */
+.logo-img {
+    width: 165px;
+}
+
+.nav-items {
+    font-size: 1.6rem;
+}
+
+.franchise-btn {
+    background-color: transparent;
+    border: 1px solid var(--white);
+    color: var(--white);
+    padding: 15px 20px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.order-btn {
+    background-color: var(--red);
+    border: none;
+    color: var(--white);
+    padding: 15px 20px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.arrow-icon {
+    color: var(--red);
+}
+
+.icon-bg {
+    background-color: var(--white);
+    padding: 5px 7px;
+    margin-left: 2px;
+    border-radius: 20px;
+}
+
+/* navbar ended */
+
+/* book img start */
+
+.publication-img{
+    border: 1px solid gray;
+    
+}
+
+.hero-sec {
+    font-size: 2.1rem;
+    font-family: 'butler' ;
+}
+
+
+.hero-sec-pera1{
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    color: #ffffffb3;
+}
+/* book img end */
