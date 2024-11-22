@@ -10,18 +10,35 @@
     height: 40px;
     border-radius: 7px;
     
+    
 }
 
 .lbl-1{
     font-family: serif;
     font-size: 1.9rem;
     color: #ffffffb3;
-    padding-bottom: 10px;
+    
+    
 }
 
 .form{
     padding-top: 20px;
+    padding: 20px;
     
     
+}
+
+.submit-btn{
+    border: 1px solid white;
+    background-color: #FFC107;
+    color: var(--white);
+    width:150px ;
+    padding: 17px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 5px;
+    font-size: 1.6rem;
+    font-weight: bold;
 }
 
