@@ -1,0 +1,41 @@
+.about-sec-pera1{
+        font-size: 1.6rem;
+        font-family: sans-serif;
+        color: #ffffffb3;
+        display: block;
+        /* width: 1300px; */
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 30px;
+        
+
+}
+
+.about-sec-pera2{
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    color: #ffffffb3;
+    
+    /* width: 1300px; */
+    text-align: left;
+    padding-left: 130px;
+    /* padding-right: 100px; */
+    padding-top: 30px;
+    
+
+}
+
+.about-sec-pera3{
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color: #ffffffb3;
+    
+    /* width: 1300px; */
+    text-align: left;
+    padding-left: 30px;
+    /* padding-right: 100px; */
+    padding-top: 10px;
+    
+
+}
